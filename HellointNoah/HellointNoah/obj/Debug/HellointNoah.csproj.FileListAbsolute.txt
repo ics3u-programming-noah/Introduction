@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\bin\Debug\HellointNoah.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\bin\Debug\HellointNoah.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\bin\Debug\HellointNoah.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\obj\Debug\HellointNoah.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\obj\Debug\HellointNoah.frmHelloint.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\obj\Debug\HellointNoah.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\obj\Debug\HellointNoah.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\obj\Debug\HellointNoah.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\obj\Debug\HellointNoah.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\CNoah (s272205)\Introduction\HellointNoah\HellointNoah\obj\Debug\HellointNoah.pdb

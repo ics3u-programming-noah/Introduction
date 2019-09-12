@@ -67,6 +67,7 @@
             this.mnuMenu.Size = new System.Drawing.Size(832, 24);
             this.mnuMenu.TabIndex = 2;
             this.mnuMenu.Text = "menuStrip1";
+            this.mnuMenu.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.MnuMenu_ItemClicked);
             // 
             // mniProgram
             // 
@@ -79,7 +80,7 @@
             // mniExit
             // 
             this.mniExit.Name = "mniExit";
-            this.mniExit.Size = new System.Drawing.Size(93, 22);
+            this.mniExit.Size = new System.Drawing.Size(180, 22);
             this.mniExit.Text = "Exit";
             this.mniExit.Click += new System.EventHandler(this.ExitToolStripMenuItem_Click);
             // 

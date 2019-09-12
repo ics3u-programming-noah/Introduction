@@ -40,5 +40,10 @@ namespace ProgramMenuNoah
         {
 
         }
+
+        private void MnuMenu_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }
