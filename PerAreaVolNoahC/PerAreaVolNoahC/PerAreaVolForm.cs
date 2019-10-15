@@ -39,16 +39,19 @@ namespace PerAreaVolNoahC
 
         private void Button2_Click(object sender, EventArgs e)
         {
+            // This will solve the equation of "What is the volume of a sphere with a radius of 4cm"
             lblAVolume.Text = Convert.ToString((double)4/(double)3 * Math.PI * Math.Pow(4, 3)) + " cm³ ";
         }
 
         private void BtnQArea_Click(object sender, EventArgs e)
         {
+            // This will solve the equation of "What is the area of a sphere with a radius of 7 cm"
             lblAArea.Text = Convert.ToString(Math.PI * Math.Pow(7, 2)) + " cm² ";
         }
 
         private void BtnQPerimeter_Click(object sender, EventArgs e)
         {
+            // This will solve the equation of " What is the perimeter of a rectangle with a legth of 5cm and width of 8cm"
             lblAPerimeter.Text = Convert.ToString(8 + 8 + 5 + 5) + " cm ";
         }
     }
